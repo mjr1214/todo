@@ -398,15 +398,23 @@ body {
         border-radius: 50%; }
       .two .change .dian .c1 {
         background: #ffdede;
+        margin-left:-1px;
+        margin-top:-1px;
         display: block; }
       .two .change .dian .c2 {
         background: #fdf4c3;
+        margin-left:-1px;
+        margin-top:-1px;
         display: none; }
       .two .change .dian .c3 {
         background: #caefff;
+        margin-left:-1px;
+        margin-top:-1px;
         display: none; }
       .two .change .dian .c4 {
         background: #e0f4be;
+        margin-left:-1px;
+        margin-top:-1px;
         display: none; }
   .two .d1 {
     border: 3px solid #ffdede;
